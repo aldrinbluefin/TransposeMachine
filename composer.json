@@ -1,3 +1,8 @@
 {
-  'name': 'bluefinenterprises/transposemachine'
+  'name': 'bluefinenterprises/transposemachine',
+  'autoload': {
+    'psr-4': {
+      "Musician\\": 'src/'
+    }
+  }
 }
