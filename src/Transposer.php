@@ -1,5 +1,7 @@
 <?php
 
+namespace Musician;
+
 /**
  * Transposer
  */
